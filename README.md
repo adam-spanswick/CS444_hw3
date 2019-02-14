@@ -1,6 +1,6 @@
 # CS444_hw3
 
-**All code runs and was tested on python 3.6.5**
+**The code for part 1 was tested on the CS linux machines with both python 2.7.12 and 3.5.2. For part 2, challenges 6 and 8 were tested on the CS linux machines with python 3.5.2. Challenge 7 was tested on the CS linux machines with python 2.7.12. When I tried to run challenge 7 with python 3.5.2 the Crypto library was not installed on the linux machines.**
 
 # Part 1
 Part 1 reads in 512 bits from urandom and conducts a run test. Also, it reads in the class coin flip data from class_bits.txt and it assumes the text file is in the same directory. For both data sets it prints out 0 if it is a good source of random and 1 if it not.
